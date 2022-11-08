@@ -1,1 +1,1 @@
-Isso deveria te ajudar a rodas o projeto :)
+Isso deveria te ajudar a roda o projeto :)
